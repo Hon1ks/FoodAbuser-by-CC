@@ -1,0 +1,93 @@
+{
+  "welcome": {
+    "title": "Food Abuser",
+    "subtitle": "Твой дневник питания",
+    "login": "Войти",
+    "register": "Зарегистрироваться"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Пароль",
+    "name": "Имя",
+    "loginTitle": "Вход",
+    "registerTitle": "Регистрация",
+    "loginBtn": "Войти",
+    "registerBtn": "Создать аккаунт",
+    "noAccount": "Нет аккаунта?",
+    "hasAccount": "Уже есть аккаунт?"
+  },
+  "tabs": {
+    "home": "Главная",
+    "diary": "Дневник",
+    "add": "Добавить",
+    "analytics": "Аналитика",
+    "settings": "Настройки"
+  },
+  "home": {
+    "todaySummary": "Сводка за сегодня",
+    "calories": "ккал",
+    "protein": "Белки",
+    "fat": "Жиры",
+    "carbs": "Углеводы",
+    "noMeals": "Сегодня ещё нет записей",
+    "addFirst": "Добавь первый приём пищи"
+  },
+  "meal": {
+    "breakfast": "Завтрак",
+    "lunch": "Обед",
+    "dinner": "Ужин",
+    "snack": "Перекус",
+    "addPhoto": "Сфотографировать",
+    "fromGallery": "Из галереи",
+    "analyze": "Анализ",
+    "analyzing": "Анализируем...",
+    "description": "Описание",
+    "save": "Сохранить",
+    "delete": "Удалить",
+    "edit": "Редактировать"
+  },
+  "ai": {
+    "resultTitle": "Результат анализа",
+    "food": "Блюдо",
+    "grams": "г",
+    "calories": "ккал",
+    "protein": "Б",
+    "fat": "Ж",
+    "carbs": "У",
+    "confidence": "Уверенность",
+    "accept": "Принять",
+    "retry": "Повторить"
+  },
+  "analytics": {
+    "title": "Аналитика",
+    "week": "Неделя",
+    "month": "Месяц",
+    "noData": "Нет данных за выбранный период"
+  },
+  "settings": {
+    "title": "Настройки",
+    "language": "Язык",
+    "theme": "Тема",
+    "notifications": "Уведомления",
+    "export": "Экспорт данных",
+    "goal": "Моя цель",
+    "privacy": "Приватность",
+    "backup": "Резервная копия"
+  },
+  "goals": {
+    "lose_weight": "Похудеть",
+    "maintain": "Поддерживать вес",
+    "gain_weight": "Набрать массу",
+    "track_habits": "Отслеживать привычки"
+  },
+  "common": {
+    "cancel": "Отмена",
+    "save": "Сохранить",
+    "delete": "Удалить",
+    "edit": "Изменить",
+    "back": "Назад",
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "retry": "Повторить"
+  }
+}

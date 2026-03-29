@@ -1,0 +1,93 @@
+{
+  "welcome": {
+    "title": "Food Abuser",
+    "subtitle": "Your food diary",
+    "login": "Log In",
+    "register": "Sign Up"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "loginTitle": "Log In",
+    "registerTitle": "Create Account",
+    "loginBtn": "Log In",
+    "registerBtn": "Create Account",
+    "noAccount": "No account?",
+    "hasAccount": "Already have an account?"
+  },
+  "tabs": {
+    "home": "Home",
+    "diary": "Diary",
+    "add": "Add",
+    "analytics": "Analytics",
+    "settings": "Settings"
+  },
+  "home": {
+    "todaySummary": "Today's Summary",
+    "calories": "kcal",
+    "protein": "Protein",
+    "fat": "Fat",
+    "carbs": "Carbs",
+    "noMeals": "No entries today",
+    "addFirst": "Add your first meal"
+  },
+  "meal": {
+    "breakfast": "Breakfast",
+    "lunch": "Lunch",
+    "dinner": "Dinner",
+    "snack": "Snack",
+    "addPhoto": "Take Photo",
+    "fromGallery": "From Gallery",
+    "analyze": "Analyze",
+    "analyzing": "Analyzing...",
+    "description": "Description",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit"
+  },
+  "ai": {
+    "resultTitle": "Analysis Result",
+    "food": "Food",
+    "grams": "g",
+    "calories": "kcal",
+    "protein": "P",
+    "fat": "F",
+    "carbs": "C",
+    "confidence": "Confidence",
+    "accept": "Accept",
+    "retry": "Retry"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "week": "Week",
+    "month": "Month",
+    "noData": "No data for selected period"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "notifications": "Notifications",
+    "export": "Export Data",
+    "goal": "My Goal",
+    "privacy": "Privacy",
+    "backup": "Backup"
+  },
+  "goals": {
+    "lose_weight": "Lose Weight",
+    "maintain": "Maintain Weight",
+    "gain_weight": "Gain Mass",
+    "track_habits": "Track Habits"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry"
+  }
+}
